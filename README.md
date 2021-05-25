@@ -25,8 +25,7 @@ pip3 install pygame
 ```
 
 #### How to use:
-```
-1. Open file `music_player.ipynb` with jupyter notebook.
-2. Run the file on jupyter notebook.
-3. Music player should open where you can search for MP3 files and play them.
-```
+
+* Open file `music_player.ipynb` with jupyter notebook.
+* Run the file on jupyter notebook.
+* Music player should open where you can search for MP3 files and play them.
